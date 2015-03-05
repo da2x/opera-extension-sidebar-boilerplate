@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "description": "Extension name.",
+    "message": "Sidebar extension name"
+  },
+  "extDescription": {
+    "description": "Description of extension functionality.",
+    "message": "Boilerplate for Opera sidebar extensions. This is the description."
+  },
+  "extPanelURL": {
+    "description": "Extension URL.",
+    "message": "http://www.example.com/?lang=en"
+  }
+}
