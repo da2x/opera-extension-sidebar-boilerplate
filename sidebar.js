@@ -3,4 +3,5 @@ document.addEventListener("DOMContentLoaded", function(event) {
   iframe = document.createElement("iframe");
   iframe.src = chrome.i18n.getMessage("extPanelURL");
   document.body.appendChild(iframe);
+  iframe.contentWindow.focus();
 });
